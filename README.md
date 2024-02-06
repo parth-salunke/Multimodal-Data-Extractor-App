@@ -1,1 +1,1 @@
-# Multimodal-Data-Extractor-App
+# Multimodel-Data-Extractor-App
