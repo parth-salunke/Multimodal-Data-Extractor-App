@@ -6,6 +6,10 @@
 
 This is a Streamlit application that utilizes the Gemini API for generating content based on input text and uploaded images.
 
+
+![ideImage](https://github.com/parth-salunke/Multimodel-Data-Extractor-App/assets/88981155/a9771c00-7ab2-4d04-9e6e-a68b92bf29d4)
+
+
 ## Getting Started
 
 To run this application locally, you'll need to follow these steps:
