@@ -1,7 +1,7 @@
 import streamlit as st
 from gemini_utils import GeminiUtils
 
-st.set_page_config(page_title="Gemini Image Demo")
+st.set_page_config(page_title="Gemini Image Data Extractor")
 
 st.header("Gemini Application")
 
@@ -25,7 +25,7 @@ image = ""
 if uploaded_file is not None:
     image = st.image(uploaded_file, caption="Uploaded Image.", use_column_width=True)
 
-submit = st.button("Tell me about the image")
+submit = st.button("Extract Data from Image")
 
 if submit:
     image_data = gemini_utils.input_image_setup(uploaded_file)
