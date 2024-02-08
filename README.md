@@ -65,5 +65,3 @@ This application is created as a demonstration of utilizing the Gemini API in co
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Make sure to replace `your-username` with your actual GitHub username in the clone command. Also, ensure that the `requirements.txt` file contains all necessary dependencies, and update the Google API key placeholder with your actual API key. Additionally, you may want to provide more detailed instructions or explanations depending on the complexity of your application.
