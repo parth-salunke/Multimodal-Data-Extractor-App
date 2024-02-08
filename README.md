@@ -60,8 +60,6 @@ To run this application locally, you'll need to follow these steps:
 
 This application is created as a demonstration of utilizing the Gemini API in combination with Streamlit for generating content based on input text and images.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
